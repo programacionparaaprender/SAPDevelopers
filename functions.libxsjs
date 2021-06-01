@@ -1,0 +1,6 @@
+function consulta(consulta){
+    var conn = $.hdb.getConnection();
+    var rs = conn.executeQuery(consulta);
+    conn.close();
+    return rs;
+}
