@@ -6,6 +6,10 @@ https://www.c-sharpcorner.com/UploadFile/3d39b4/serialization-and-deserializatio
 https://www.codeproject.com/Questions/634664/Generic-List-in-WCF-intialized-to-Null
 
 
+### usar logs
+https://www.youtube.com/watch?v=WUbprKbJXgs
+https://github.com/jvargasipince/Log4Net_VS2017/blob/master/Demo_Log4Net/log4net.config
+
 ### procedimientos
 https://blogs.sap.com/2017/11/25/debugging-hana-procedures/
 
